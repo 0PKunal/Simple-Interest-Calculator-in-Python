@@ -3,9 +3,13 @@
 A Python program to calculate **Simple Interest (I)**.
 
 ## Formula
-\[
+<h1 align="center">
+
+$$
 I = \frac{P \times r \times t}{100}
-\]
+$$
+
+</h1>
 
 - **P** = Principal amount  
 - **r** = Rate of interest (%)  
@@ -61,6 +65,7 @@ The above copyright notice and this permission notice shall be included in all
 copies or substantial portions of the Software.
 ```
 
+---
 <div align="center">
   <p>Made with ❤️ by <a href="https://github.com/0PKunal">0PKunal</a></p>
   <p>If this project helped you, please give it a ⭐️</p>
