@@ -1,4 +1,3 @@
-````markdown
 # Simple Interest Calculator
 
 A Python program to calculate **Simple Interest (I)**.
@@ -27,8 +26,7 @@ I = \frac{P \times r \times t}{100}
 
    ```bash
     python simple_interest.py
-    ````
-
+   ```
 ## Example
 
 ```
